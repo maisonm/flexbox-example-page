@@ -1,0 +1,29 @@
+.container {
+
+	display: flex;
+	background: #1c9dc5;
+	font-family: 'Rubik', sans-serif;		
+}
+
+.box {
+	
+	border: solid #333 2px;
+	background: #a8a8a8;
+	height: 150px;
+	width: 	150px;
+	margin: 2px;
+}
+
+#box1 {
+ font-size: 3em;
+}
+#box2{ 
+ font-size: 2em;
+}
+#box3 {
+ font-size: 1em;
+}
+#box4{ 
+ font-size: 5em;
+}
+
